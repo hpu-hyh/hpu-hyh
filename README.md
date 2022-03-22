@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">
   Hey, I'm hpu-hyhr!
 </h1>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hpu-hyh&show_icons=true&theme=pink&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hpu-hyh&theme=pink&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hpu-hyh&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hpu-hyh&theme=dark&layout=compact)
 
