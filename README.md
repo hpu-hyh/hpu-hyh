@@ -9,32 +9,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hpu-hyh&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hpu-hyh&theme=dark&layout=compact)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=younger-1&repo=topological-value-in-graph)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hpu-hyh&repo=topological-value-in-graph)
 
-![My stats](https://github-readme-stats.vercel.app/api?username=younger-1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
-
-Awesome githuber
-- https://github.com/Youngermaster/Youngermaster
-- https://github.com/hylerrix/hylerrix
-- https://github.com/Xunzhuo/Xunzhuo
-- https://github.com/elianiva/elianiva
-- https://github.com/glepnir/glepnir
-- https://github.com/kkiyama117/kkiyama117
-- https://github.com/changkun/changkun
-- https://github.com/yangwenmai/yangwenmai
-- https://github.com/NTBBloodbath/NTBBloodbath
-- https://github.com/dhruvasagar/dhruvasagar
-- https://github.com/Light-City//Light-City
-- https://github.com/rhysd/rhysd
-- https://github.com/abzcoding/abzcoding
-- https://github.com/SigureMo/SigureMo
-- https://github.com/vbalien/vbalien [github action]
-- https://github.com/funkyremi/funkyremi
-- https://github.com/watzon/watzon
-- https://github.com/michaelb/michaelb
-- https://github.com/lambdalisue/lambdalisue
-- https://github.com/spywhere/spywhere
--->
+![My stats](https://github-readme-stats.vercel.app/api?username=hpu-hyh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
 
 <h1 align="center">
   Hey, I'm Younger!
@@ -118,22 +95,4 @@ Awesome githuber
 [![](https://raw.githubusercontent.com/kkiyama117/kkiyama117/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  -->
 
-## 😐 But I'm still wondering...
-
-```rust
-struct AboutMe;
-
-impl AboutMe {
-    const READING_BOOK: &'static str = "The book of life";
-    const CURRENT_DEGREE: &'static str = "Master";
-    const WANT_TO_UNDERSTAND: &'static str = "WHY we should HOW to do WHAT";
-}
-
-trait OpenSource {
-    const CONTRIBUTOR_OF: &'static [&'static str] = &["Nope"];
-}
-
-impl OpenSource for AboutMe {}
-```
-
-![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/hpu-hyhhpu-hyh/output/github-contribution-grid-snake.svg)
