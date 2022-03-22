@@ -11,10 +11,9 @@ You can click the Preview link to take a look at your changes.
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hpu-hyh&theme=dark&layout=compact)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hpu-hyh&repo=topological-value-in-graph)
 
-![My stats](https://github-readme-stats.vercel.app/api?username=hpu-hyh&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
 
 <h1 align="center">
-  Hey, I'm Younger!
+  Hey, I'm hpu-hyhr!
 </h1>
 
 <!-- 
@@ -70,15 +69,6 @@ You can click the Preview link to take a look at your changes.
 <!--   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320"> -->
 <!--   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320">  -->
 </div>
-
-
-
-## 🌠[Coding Time](https://wakatime.com/@Younger)
-> the projects I'm working on
-
-<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
-
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=younger-1&theme=calm&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younger-1&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
