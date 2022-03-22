@@ -10,16 +10,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">
   Hey, I'm hpu-hyhr!
 </h1>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hpu-hyh&show_icons=true&theme=pink&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hpu-hyh&theme=pink&layout=compact)
 
-<!-- 
-<p align="center">
-  <a href="https://reddit.com/user/NTBBloodbath" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
-  <a href="https://t.me/NTBBloodbath" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://discord.com/users/387036585033465856" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p> 
--->
-<!-- 
-<div align="center">
-    <img height="150" src="images/rock-rock-rock.gif" alt="gif with funny random cat say thank you." />
-</div>
--->
