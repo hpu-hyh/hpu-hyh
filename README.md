@@ -7,11 +7,6 @@
 hpu-hyh/hpu-hyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hpu-hyh&show_icons=true&theme=dark&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hpu-hyh&theme=dark&layout=compact)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hpu-hyh&repo=topological-value-in-graph)
-
-
 <h1 align="center">
   Hey, I'm hpu-hyhr!
 </h1>
@@ -23,7 +18,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://discord.com/users/387036585033465856" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p> 
 -->
-
 <!-- 
 <div align="center">
     <img height="150" src="images/rock-rock-rock.gif" alt="gif with funny random cat say thank you." />
@@ -36,10 +30,6 @@ You can click the Preview link to take a look at your changes.
     <b><a href="https://github.com/golang/go">Gopher</a></b>
     •
     <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
-    •
-    <b><a href="https://younger-1.github.io/fastpages/">Blogs</a></b>
-    <!-- •<b><a href="7650421@qq.com">Email</a></b> -->
-    <!-- •<b><a href="https://www.paypal.me/younger">Sponsor</a></b> -->
 </p>
 
 <p align="center">
@@ -76,13 +66,5 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=younger-1&column=8"/>
-
-
-<!-- 
-[![](https://raw.githubusercontent.com/younger-1/younger-1/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kkiyama117/kkiyama117/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kkiyama117/kkiyama117/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kkiyama117/kkiyama117/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
- -->
 
 ![](https://raw.githubusercontent.com/hpu-hyhhpu-hyh/output/github-contribution-grid-snake.svg)
