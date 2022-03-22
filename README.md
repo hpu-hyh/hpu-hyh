@@ -25,13 +25,12 @@ You can click the Preview link to take a look at your changes.
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
-
-<a href="https://github.com/hpu-hyh">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=hpu-hyh&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide=contribs" />
-</a>
-<a href="https://github.com/hpu-hyh">
-  <img align="center" width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpu-hyh&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&layout=compact&theme=tokyonight&show_icons=true&hide_title=true" />
-</a>
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=hpu-hyh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpu-hyh&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+<br>
 
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=hpu-hyh&color=green)
