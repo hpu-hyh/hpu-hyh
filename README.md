@@ -10,7 +10,7 @@
 hpu-hyh/hpu-hyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](bgimg.jpg) 
+<!---![image](bgimg.jpg) --->
 <!-- Gif -->
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
